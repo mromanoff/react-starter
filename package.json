@@ -1,7 +1,7 @@
 {
-  "name": "byos",
-  "version": "1.0.0",
-  "description": "BYOS Build Your Own Starter based on http://andrewhfarmer.com/build-your-own-starter/#0-intro",
+  "name": "react-starter",
+  "version": "1.0.1",
+  "description": "React Starter",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Michael Romanoff",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.10.4",
