@@ -2,20 +2,12 @@ React Starter
 
 ---
  
-Welcome.
-
-+HMR is supported with `webpack-hot-middleware` and `react-hot-loader`. Updates to your React components will be reflected immediately in the browser.
+A starter project with [React](https://facebook.github.io/react/), [Babel](http://babeljs.io/), and [Webpack](http://webpack.github.io/).
 
 Usage
 ---
- 
-Start the development server with this command:
- 
-```
-npm start
-```
- 
- 
+
+
 Setup
 ---
  
@@ -23,10 +15,9 @@ Setup
 npm install
 ```
  
- 
-Compile
+Usage
 ---
- 
-```
-npm run compile
-```
+
+1. `node server.js`
+
+2. Open [http://localhost:3000/](http://localhost:3000/).

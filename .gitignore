@@ -95,5 +95,5 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
-# public directory
-www
+# ignore compiled js file
+www/bundle.js
