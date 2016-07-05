@@ -4,6 +4,7 @@ React Starter
  
 Welcome.
 
++HMR is supported with `webpack-hot-middleware` and `react-hot-loader`. Updates to your React components will be reflected immediately in the browser.
 
 Usage
 ---
