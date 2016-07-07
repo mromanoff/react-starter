@@ -1,4 +1,4 @@
-React Starter
+Minimalist React Starter
 
 ---
  
@@ -18,6 +18,6 @@ npm install
 Usage
 ---
 
-1. `node server.js`
+1. `npm start`
 
 2. Open [http://localhost:3000/](http://localhost:3000/).
