@@ -13,7 +13,7 @@ class Counter extends React.Component {
  
   render() {
     return (
-      <button className="btn btn-primary btn-lg"
+      <button className="btn btn-primary btn-md"
         onClick={() => {
           this.setState({ count: this.state.count + 1 });
         }}
