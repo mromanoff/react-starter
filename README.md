@@ -2,7 +2,7 @@ React Starter
 
 ---
  
-A starter project with [React](https://facebook.github.io/react/), [Babel](http://babeljs.io/), and [Webpack](http://webpack.github.io/).
+A starter project with [React](https://facebook.github.io/react/), [Babel](http://babeljs.io/), [Webpack](http://webpack.github.io/) and [React Hot Loader](https://github.com/gaearon/react-hot-loader).
 
 Usage
 ---

@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Minimalist ReactJS Starter",
   "scripts": {
-    "compile": "webpack",
+    "build": "webpack",
     "start": "node server.js"
   },
   "keywords": [],
